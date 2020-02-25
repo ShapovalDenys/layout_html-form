@@ -1,0 +1,15 @@
+input:focus {
+  background-color: aquamarine;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.label-bottom {
+  margin-bottom: 0;
+}
