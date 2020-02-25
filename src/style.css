@@ -8,8 +8,10 @@ input:focus {
 
 .label {
   margin-bottom: 10px;
+  display: block;
 }
 
 .label-bottom {
   margin-bottom: 0;
+  display: block;
 }
